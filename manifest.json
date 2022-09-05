@@ -23,7 +23,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/?source=pwa",
+  "start_url": "https://jiunjiun69.github.io/robofriends- ProgressiveWebApp/?source=pwa",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
