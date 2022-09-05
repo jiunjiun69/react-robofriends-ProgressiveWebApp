@@ -10,8 +10,7 @@ adding PWA capabilities to a react app
 
 ## deploy:
 
-npm run deploy
-
+`npm run deploy`
 
 ## Favicon Generator
 
