@@ -15,6 +15,7 @@ class Header extends Component {
     return (
       <div>
         <h1 className='f1'>RoboFriends</h1>
+        <h1 className='f1'>林修同87</h1>
         <CounterButton />
       </div>
     );
