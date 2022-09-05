@@ -20,3 +20,6 @@ https://realfavicongenerator.net/
 
 ## Improve front end performance
 https://progressivetooling.com/
+
+## see performance & pwa
+lighthouse
