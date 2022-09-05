@@ -18,4 +18,4 @@ npm run deploy
 https://realfavicongenerator.net/
 
 ## Improve front end performance
-https ://progressivetooling.com/
+https://progressivetooling.com/
