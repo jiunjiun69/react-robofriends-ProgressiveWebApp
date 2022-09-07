@@ -11,9 +11,11 @@ adding PWA capabilities to a react app
 `npm run build`
 
 ## deploy:
-`git init`
-`git remote add origin <repo_link>`
-`npm run deploy`
+```
+git init
+git remote add origin <repo_link>
+npm run deploy
+```
 
 ## Favicon Generator
 
