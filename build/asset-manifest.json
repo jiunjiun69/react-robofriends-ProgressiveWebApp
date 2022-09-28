@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/robofriends-ProgressiveWebApp/static/css/main.6c957d4b.css",
-    "main.js": "/robofriends-ProgressiveWebApp/static/js/main.37416705.js",
-    "service-worker.js": "/robofriends-ProgressiveWebApp/service-worker.js",
-    "static/media/SEGA.woff": "/robofriends-ProgressiveWebApp/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/robofriends-ProgressiveWebApp/index.html",
-    "main.6c957d4b.css.map": "/robofriends-ProgressiveWebApp/static/css/main.6c957d4b.css.map",
-    "main.37416705.js.map": "/robofriends-ProgressiveWebApp/static/js/main.37416705.js.map"
+    "main.css": "/react-robofriends-ProgressiveWebApp/static/css/main.f68ca79c.css",
+    "main.js": "/react-robofriends-ProgressiveWebApp/static/js/main.94e36eb7.js",
+    "service-worker.js": "/react-robofriends-ProgressiveWebApp/service-worker.js",
+    "static/media/SEGA.woff": "/react-robofriends-ProgressiveWebApp/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/react-robofriends-ProgressiveWebApp/index.html",
+    "main.f68ca79c.css.map": "/react-robofriends-ProgressiveWebApp/static/css/main.f68ca79c.css.map",
+    "main.94e36eb7.js.map": "/react-robofriends-ProgressiveWebApp/static/js/main.94e36eb7.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c957d4b.css",
-    "static/js/main.37416705.js"
+    "static/css/main.f68ca79c.css",
+    "static/js/main.94e36eb7.js"
   ]
 }
