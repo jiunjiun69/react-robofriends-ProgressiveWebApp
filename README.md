@@ -26,3 +26,12 @@ https://progressivetooling.com/
 
 ## see performance & pwa
 lighthouse
+
+# (MAC zsh環境)npm start時遇到‘unsupported’的錯誤時
+
+nodejs 17: digital envelope routines::unsupported #14532
+https://github.com/webpack/webpack/issues/14532
+
+在zsh中輸入以下指令解決
+
+`export NODE_OPTIONS=--openssl-legacy-provider`
